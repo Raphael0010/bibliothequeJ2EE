@@ -85,4 +85,11 @@ public class Livre implements Serializable {
         return id;
     }
 
+    @Override
+    public String toString() {
+        return new StringBuffer("id:").append(this.id).append("titre:").append(this.titre).append("annee: ")
+                .append(this.annee).append("auteur : ").append(this.auteur).append("prix : ").append(this.prix)
+                .append("img : ").append(this.img).toString();
+    }
+
 }

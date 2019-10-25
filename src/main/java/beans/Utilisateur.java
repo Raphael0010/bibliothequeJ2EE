@@ -21,6 +21,9 @@ public class Utilisateur implements Serializable {
     @Column(name = "pass")
     private String pass;
 
+    public Utilisateur() {
+    }
+
     public Utilisateur(String login, String pass) {
         this.login = login;
         this.pass = pass;

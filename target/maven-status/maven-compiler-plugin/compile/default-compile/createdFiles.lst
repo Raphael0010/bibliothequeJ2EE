@@ -1,5 +1,6 @@
 servlets/admin/LogoutServlet.class
 servlets/logged/LogoutServlet.class
+webservices/LivreRessource.class
 servlets/admin/book/CreateBookServlet.class
 beans/Admin.class
 servlets/LoginAdminServlet.class
@@ -8,6 +9,7 @@ servlets/admin/book/UpdateBookServlet.class
 servlets/admin/AdminServlet.class
 filters/AdminFilter.class
 beans/Utilisateur.class
+manage/ManageLivre.class
 servlets/admin/book/ReadBookServlet.class
 servlets/admin/book/DeleteBookServlet.class
 filters/AuthFilter.class

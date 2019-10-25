@@ -1,5 +1,6 @@
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/servlets/admin/book/UpdateBookServlet.java
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/servlets/RegisterServlet.java
+/Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/manage/ManageUtilisateur.java
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/beans/Admin.java
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/servlets/admin/book/ReadBookServlet.java
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/servlets/LoginAdminServlet.java
@@ -9,10 +10,13 @@
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/Hello.java
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/servlets/logged/LoggedServlet.java
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/servlets/logged/LogoutServlet.java
+/Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/webservices/LivreRessource.java
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/servlets/admin/LogoutServlet.java
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/servlets/LoginServlet.java
+/Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/webservices/UtilisateurRessource.java
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/beans/Utilisateur.java
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/filters/AuthFilter.java
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/servlets/admin/book/CreateBookServlet.java
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/servlets/admin/book/DeleteBookServlet.java
 /Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/filters/AdminFilter.java
+/Users/raphaelmortier/Documents/Développement/Java/bibliotheque_tp/src/main/java/manage/ManageLivre.java

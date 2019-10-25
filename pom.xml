@@ -54,6 +54,24 @@
       <artifactId>hibernate-core</artifactId>
       <version>5.2.6.Final</version>
     </dependency>
+    <!-- Jersey -->
+    <dependency>
+      <groupId>com.sun.jersey</groupId>
+      <artifactId>jersey-server</artifactId>
+      <version>1.8</version>
+    </dependency>
+    <dependency>
+      <groupId>com.sun.jersey</groupId>
+      <artifactId>jersey-client</artifactId>
+      <version>1.8</version>
+    </dependency>
+    <!-- JSON -->
+    <dependency>
+      <groupId>com.sun.jersey</groupId>
+      <artifactId>jersey-json</artifactId>
+      <version>1.8</version>
+    </dependency>
+
   </dependencies>
 
   <build>
